@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WinForm_VehicleLicenseTax
+namespace RayHW3
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace WinForm_VehicleLicenseTax
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new form_VehicleLicenseTax());
         }
     }
 }

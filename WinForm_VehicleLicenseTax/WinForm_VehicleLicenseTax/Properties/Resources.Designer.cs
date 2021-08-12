@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace WinForm_VehicleLicenseTax.Properties
+namespace RayHW3.Properties
 {
     /// <summary>
     ///   用於查詢當地語系化字串等的強類型資源類別
@@ -43,7 +43,7 @@ namespace WinForm_VehicleLicenseTax.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("WinForm_VehicleLicenseTax.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("RayHW3.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
